@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PauseGame.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FinishLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplashToMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RedirectToLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuFunction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelScripts\Level001.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollCredits.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GemRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GemSilver.cs" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\LevelScripts\Level002.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
